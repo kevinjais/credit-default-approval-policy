@@ -1,0 +1,10 @@
+{
+  "applicants": 307511,
+  "portfolio_default_rate": 0.08072881945686496,
+  "gini_application_only": 0.5363498453644926,
+  "gini_with_aggregations": 0.5819074667262363,
+  "approval_rate": 0.8,
+  "bad_rate_at_cutoff": 0.042982167319081825,
+  "declined_bad_rate": 0.23171604175473967,
+  "default_reduction": 0.4675734439291774
+}
